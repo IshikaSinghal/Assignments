@@ -1,0 +1,8 @@
+C:\Users\MeetApp\source\repos\Timeinword\Timeinword\bin\Debug\Timeinword.exe.config
+C:\Users\MeetApp\source\repos\Timeinword\Timeinword\bin\Debug\Timeinword.exe
+C:\Users\MeetApp\source\repos\Timeinword\Timeinword\bin\Debug\Timeinword.pdb
+C:\Users\MeetApp\source\repos\Timeinword\Timeinword\obj\Debug\Timeinword.csproj.AssemblyReference.cache
+C:\Users\MeetApp\source\repos\Timeinword\Timeinword\obj\Debug\Timeinword.csproj.SuggestedBindingRedirects.cache
+C:\Users\MeetApp\source\repos\Timeinword\Timeinword\obj\Debug\Timeinword.csproj.CoreCompileInputs.cache
+C:\Users\MeetApp\source\repos\Timeinword\Timeinword\obj\Debug\Timeinword.exe
+C:\Users\MeetApp\source\repos\Timeinword\Timeinword\obj\Debug\Timeinword.pdb

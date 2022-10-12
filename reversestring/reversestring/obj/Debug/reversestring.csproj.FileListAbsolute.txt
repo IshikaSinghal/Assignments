@@ -1,0 +1,8 @@
+C:\Users\MeetApp\source\repos\reversestring\reversestring\bin\Debug\reversestring.exe.config
+C:\Users\MeetApp\source\repos\reversestring\reversestring\bin\Debug\reversestring.exe
+C:\Users\MeetApp\source\repos\reversestring\reversestring\bin\Debug\reversestring.pdb
+C:\Users\MeetApp\source\repos\reversestring\reversestring\obj\Debug\reversestring.csproj.AssemblyReference.cache
+C:\Users\MeetApp\source\repos\reversestring\reversestring\obj\Debug\reversestring.csproj.SuggestedBindingRedirects.cache
+C:\Users\MeetApp\source\repos\reversestring\reversestring\obj\Debug\reversestring.csproj.CoreCompileInputs.cache
+C:\Users\MeetApp\source\repos\reversestring\reversestring\obj\Debug\reversestring.exe
+C:\Users\MeetApp\source\repos\reversestring\reversestring\obj\Debug\reversestring.pdb

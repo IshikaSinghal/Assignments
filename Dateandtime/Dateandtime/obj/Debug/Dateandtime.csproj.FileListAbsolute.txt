@@ -1,0 +1,8 @@
+C:\Users\MeetApp\source\repos\Dateandtime\Dateandtime\obj\Debug\Dateandtime.csproj.AssemblyReference.cache
+C:\Users\MeetApp\source\repos\Dateandtime\Dateandtime\obj\Debug\Dateandtime.csproj.SuggestedBindingRedirects.cache
+C:\Users\MeetApp\source\repos\Dateandtime\Dateandtime\obj\Debug\Dateandtime.csproj.CoreCompileInputs.cache
+C:\Users\MeetApp\source\repos\Dateandtime\Dateandtime\bin\Debug\Dateandtime.exe.config
+C:\Users\MeetApp\source\repos\Dateandtime\Dateandtime\bin\Debug\Dateandtime.exe
+C:\Users\MeetApp\source\repos\Dateandtime\Dateandtime\bin\Debug\Dateandtime.pdb
+C:\Users\MeetApp\source\repos\Dateandtime\Dateandtime\obj\Debug\Dateandtime.exe
+C:\Users\MeetApp\source\repos\Dateandtime\Dateandtime\obj\Debug\Dateandtime.pdb

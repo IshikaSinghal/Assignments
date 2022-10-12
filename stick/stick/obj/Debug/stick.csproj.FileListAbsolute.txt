@@ -1,0 +1,8 @@
+C:\Users\MeetApp\source\repos\stick\stick\bin\Debug\stick.exe.config
+C:\Users\MeetApp\source\repos\stick\stick\bin\Debug\stick.exe
+C:\Users\MeetApp\source\repos\stick\stick\bin\Debug\stick.pdb
+C:\Users\MeetApp\source\repos\stick\stick\obj\Debug\stick.csproj.AssemblyReference.cache
+C:\Users\MeetApp\source\repos\stick\stick\obj\Debug\stick.csproj.SuggestedBindingRedirects.cache
+C:\Users\MeetApp\source\repos\stick\stick\obj\Debug\stick.csproj.CoreCompileInputs.cache
+C:\Users\MeetApp\source\repos\stick\stick\obj\Debug\stick.exe
+C:\Users\MeetApp\source\repos\stick\stick\obj\Debug\stick.pdb
